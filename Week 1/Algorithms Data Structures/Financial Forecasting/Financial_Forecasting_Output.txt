@@ -1,0 +1,5 @@
+Financial Forecasting Tool
+Enter present value: 5000
+Enter annual growth rate (in %): 8
+Enter number of years: 5
+Forecasted value after 5 years: 7346.64
